@@ -1,10 +1,10 @@
 # Project Gutenberg
-爬取中文書籍，共 xxx 本。
+爬取中文書籍，共 507 本。
 
 ## 安裝套件
-- requests (版本號)
-- beautifulsoup4 (版本號)
-- selenium (版本號)
+- requests           2.27.1
+- beautifulsoup4     4.10.0
+- selenium           3.141.0
 ...
 (版本號可用 pip list，或是 conda list 來檢視)
 ...
