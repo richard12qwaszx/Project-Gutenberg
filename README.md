@@ -2,7 +2,6 @@
 爬取中文書籍，共 507 本。
 
 ```
-markdown
 |project_gutenberg/
 |project_gutenberg.ipynb
 |README.md
