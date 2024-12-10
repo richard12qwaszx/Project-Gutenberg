@@ -1,5 +1,5 @@
 # Project Gutenberg
-爬取中文書籍，共 507 本。
+爬取中文書籍，共 350 本。
 
 ```
 |project_gutenberg/
