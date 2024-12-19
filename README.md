@@ -3,7 +3,7 @@
 
 ```
 |project_gutenberg/
-|project_gutenberg.ipynb
+|--project_gutenberg.ipynb
 |README.md
 ```
 
